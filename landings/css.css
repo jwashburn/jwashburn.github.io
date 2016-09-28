@@ -7,6 +7,7 @@ body { width: 100%; text-align: center; }
 h1 {
     font-size: 250%;
     color: #00a4ff;
+    font-weight: bold;
 }
 
 h1 {
