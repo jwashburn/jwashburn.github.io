@@ -1,14 +1,7 @@
-body {
-    
-}
 
 body { width: 100%; text-align: center; }
 
 #centerContainer { width: 720px; text-align: left; margin: 0px auto; }
-
-<body>
-  <div id="centerContainer">Content</div>
-</body>
 
 
 h1 {
