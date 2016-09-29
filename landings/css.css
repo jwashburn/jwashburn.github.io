@@ -73,4 +73,7 @@ ul {
 
 .bullet-no {
     list-style-image: url('images/bullet-no.jpg');
+    color: #00a4ff;
+    font-size: 24px;
+    font-weight: bold;
 }
