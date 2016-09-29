@@ -22,6 +22,12 @@ quote {
     font-style: italic;
 }
 
+blackquote {
+    color: white;
+    font-size: 200%;
+    background-color: black;
+}
+
 
 figure {
     background-color: #E8E8E8;
