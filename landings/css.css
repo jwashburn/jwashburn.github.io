@@ -23,7 +23,7 @@ quote {
 
 
 figure {
-    background-color: #B8B8B8;
+    background-color: #E8E8E8;
 }
 
 
@@ -32,4 +32,9 @@ figurequote {
     font-size: 80%;
     font-style: italic;
     color: #404040;
+}
+
+
+img {
+    align-items: center;
 }
