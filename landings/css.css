@@ -69,3 +69,8 @@ img {
 ul {
     list-style-image: url('images/bullet-check.jpg');
 }
+
+
+.bullet-no {
+    list-style-image: url('images/bullet-no.jpg');
+}
