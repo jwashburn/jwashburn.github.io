@@ -64,3 +64,8 @@ img {
     display: block;
     margin: auto;
 }
+
+
+ul {
+    list-style-image: url('images/bullet-check.jpg');
+}
