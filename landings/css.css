@@ -36,5 +36,6 @@ figurequote {
 
 
 img {
-    align-items: center;
+    display: block;
+    margin: auto;
 }
