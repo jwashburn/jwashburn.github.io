@@ -29,11 +29,11 @@ quote {
     font-size: 100%;
     background-color: black;
     width: 720px;
+    padding: 50px 0;
     position: relative;
     bottom: 50px;
     text-align: center;
 }
-
 
 
 #blackquote p {
@@ -42,12 +42,12 @@ quote {
 }
 
 
-figure {
+#frame {
     background-color: #E8E8E8;
 }
 
 
-figcaption {
+#frame p {
     font-family: 'Georgia', serif;
     font-size: 80%;
     font-style: italic;
