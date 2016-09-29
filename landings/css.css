@@ -22,10 +22,12 @@ quote {
     font-style: italic;
 }
 
-blackquote {
+#blackquote {
     color: white;
     font-size: 200%;
     background-color: black;
+    width: 720px;
+    padding:50px;
 }
 
 
