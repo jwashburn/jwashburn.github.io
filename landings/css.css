@@ -75,13 +75,13 @@ ul {
 .bullet-no {
     list-style-image: url('images/bullet-no.jpg');
     color: #00a4ff;
-    font-size: 27px;
+    font-size: 32px;
     font-weight: bold;
 }
 
 .bullet-yes {
     list-style-image: url('images/bullet-check.jpg');
     color: #00a4ff;
-    font-size: 27px;
+    font-size: 32px;
     font-weight: bold;
 }
