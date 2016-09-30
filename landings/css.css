@@ -80,7 +80,7 @@ ul {
     font-weight: bold;
 }
 
-.billet-yes {
+.bullet-yes {
     list-style-image: url('images/bullet-check.jpg');
     color: #00a4ff;
     font-size: 24px;
