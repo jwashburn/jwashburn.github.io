@@ -11,15 +11,14 @@ h1 {
 }
 
 p {
-    font-size: 18px;
-    line-height: 32px;
+    font-size: 27px;
+    line-height: 45px;
 }
 
 
 quote {
     font-family: 'Georgia', serif;
     font-size: 150%;
-    font-style: italic;
 }
 
 
