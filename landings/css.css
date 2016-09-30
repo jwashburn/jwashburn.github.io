@@ -68,11 +68,20 @@ img {
 
 ul {
     list-style-image: url('images/bullet-check.jpg');
+    font-size: 18px;
+    line-height: 40px;
 }
 
 
 .bullet-no {
     list-style-image: url('images/bullet-no.jpg');
+    color: #00a4ff;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.billet-yes {
+    list-style-image: url('images/bullet-check.jpg');
     color: #00a4ff;
     font-size: 24px;
     font-weight: bold;
