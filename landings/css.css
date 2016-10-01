@@ -116,8 +116,12 @@ ul {
 }
 
 button {
-    font-size: 140%;
+    font-size: 120%;
     color: white;
-    background-color: #00a4ff;
+    background-color: #F44336;
     font-weight: bold;
+    padding: 20px 40px;
+    margin: auto;
+    border: none;
+    border-style: none;
 }
