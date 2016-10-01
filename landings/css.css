@@ -117,13 +117,13 @@ ul {
 
 .graybigtext {
     font-size: 125%;
-    color: gray;
+    color: #424242;
 }
 
 button {
     font-size: 120%;
     color: white;
-    background-color: #424242;
+    background-color: #F44336;
     font-weight: bold;
     padding: 20px 40px;
     margin: auto;
