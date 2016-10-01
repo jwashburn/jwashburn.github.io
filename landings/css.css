@@ -139,5 +139,6 @@ button {
 .italicend {
     text-align: center; 
     font-size: 60%;
+    line-height: normal;
     color: #404040;
 }
