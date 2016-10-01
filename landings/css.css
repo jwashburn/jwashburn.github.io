@@ -114,3 +114,9 @@ ul {
     font-family: "georgia", sans-serif;
     font-size: 24px;
 }
+
+button {
+    font-size: 200%;
+    color: #00a4ff;
+    font-weight: bold;
+}
