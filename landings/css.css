@@ -110,4 +110,6 @@ ul {
     margin: 50px 0;
     position: relative;
     bottom: 50px;
+    font-family: "georgia", sans-serif;
+    font-size: 24px;
 }
