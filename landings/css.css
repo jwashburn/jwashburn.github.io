@@ -123,10 +123,9 @@ ul {
 button {
     font-size: 120%;
     color: white;
-    background-color: #F44336;
+    background-color: #424242;
     font-weight: bold;
     padding: 20px 40px;
     margin: auto;
     border: none;
-    border-style: none;
 }
