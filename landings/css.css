@@ -1,7 +1,19 @@
 
-body { width: 100%; text-align: center; margin: 0px; padding: 0px;}
+body { 
+    width: 100%; 
+    text-align: center; 
+    margin: 0px; 
+    padding: 0px;
+    font-size: 27px;
+    line-height: 45px;
+}
 
-#container { width: 720px; text-align: left; margin: 0px auto; font-family: 'Roboto', Sans-serif;}
+#container { 
+    width: 720px; 
+    text-align: left; 
+    margin: 0px auto; 
+    font-family: 'Roboto', Sans-serif;
+}
 
 
 h1 {
@@ -10,13 +22,6 @@ h1 {
     font-weight: bold;
     margin: 100px 0 40px 0;
 }
-
-p {
-    font-size: 27px;
-    line-height: 45px;
-}
-
-
 
 
 #blackquote {
