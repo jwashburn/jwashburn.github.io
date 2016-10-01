@@ -116,7 +116,9 @@ ul {
 }
 
 .graybigtext {
+    font-family: 'Roboto', Sans-serif;
     font-size: 125%;
+    font-weight: bold;
     color: #424242;
 }
 
