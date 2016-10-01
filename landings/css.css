@@ -116,7 +116,8 @@ ul {
 }
 
 button {
-    font-size: 200%;
-    color: #00a4ff;
+    font-size: 140%;
+    color: white;
+    background-color: #00a4ff;
     font-weight: bold;
 }
