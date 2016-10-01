@@ -87,5 +87,9 @@ ul {
 }
 
 .quote {
-    padding: 50px 50px;
+    padding: 0 50px;
+    border-style: solid;
+    border-left-width: 5px;
+    border-left-color: #00a4ff;
+    border-width: 0 0 0 10px;
 }
