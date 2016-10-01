@@ -131,3 +131,7 @@ button {
     margin: auto;
     border: none;
 }
+
+.center {
+    text-align: center; 
+}
