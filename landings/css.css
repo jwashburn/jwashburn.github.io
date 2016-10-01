@@ -115,6 +115,11 @@ ul {
     font-size: 24px;
 }
 
+.graybigtext {
+    font-size: 125%;
+    color: gray;
+}
+
 button {
     font-size: 120%;
     color: white;
