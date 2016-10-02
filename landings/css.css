@@ -130,6 +130,7 @@ button {
     padding: 20px 40px;
     margin: auto;
     border: none;
+    cursor: pointer;
 }
 
 .center {
