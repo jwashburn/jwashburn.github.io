@@ -185,8 +185,7 @@ button {
     font-size: 100%;
     background-color: #FFD966;
     width: 720px;
-    padding: 50px 0;
+    padding: 15px 0;
     position: relative;
-    bottom: 50px;
     text-align: center;
 }
