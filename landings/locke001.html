@@ -288,7 +288,11 @@
 
     <p>But there’s a catch. I’m not giving this book away forever. This offer’s only open for the next few days. So act fast!</p>
   
-  <div class="tc_div_41249" style="width:650px;height:162.50px;border:1px solid #C0C0C0;"><a title="Countdown" href="http://www.tickcounter.com/countdown/1476511200000/america-denver/dhms/FFFFFF3B599800A4FF00A4FF/">Countdown</a><a title="Countdown" href="http://www.tickcounter.com/">Countdown</a></div><script type="text/javascript">(function(){ var s=document.createElement('script');s.src="https://www.tickcounter.com/loader.js";s.async='async';s.onload=function() { tc_widget_loader('tc_div_41249', 'Countdown', 650, ['1476511200000', 'america-denver', 'dhms', 'FFFFFF3B599800A4FF00A4FF', '650', 'C0C0C01', '']);};s.onreadystatechange=s.onload;var head=document.getElementsByTagName('head')[0];head.appendChild(s);}());</script>
+  
+
+
+    <div>Registration closes in <span id="time"></span> minutes!</div>
+
   
   <p class="center">[     06 : 14 : 37     ]</p>
     
@@ -309,6 +313,40 @@
     
     
   </div>
-    
+  <script>function startTimer(duration, display) {
+    var start = Date.now(),
+        diff,
+        minutes,
+        seconds;
+    function timer() {
+        // get the number of seconds that have elapsed since 
+        // startTimer() was called
+        diff = duration - (((Date.now() - start) / 1000) | 0);
+
+        // does the same job as parseInt truncates the float
+        minutes = (diff / 60) | 0;
+        seconds = (diff % 60) | 0;
+
+        minutes = minutes < 10 ? "0" + minutes : minutes;
+        seconds = seconds < 10 ? "0" + seconds : seconds;
+
+        display.textContent = minutes + ":" + seconds; 
+
+        if (diff <= 0) {
+            // add one second so that the count down starts at the full duration
+            // example 05:00 not 04:59
+            start = Date.now() + 1000;
+        }
+    };
+    // we don't want to wait a full second before the timer starts
+    timer();
+    setInterval(timer, 1000);
+}
+
+window.onload = function () {
+    var fiveMinutes = 60 * 5,
+        display = document.querySelector('#time');
+    startTimer(fiveMinutes, display);
+};</script>
 </body>
 </html>
