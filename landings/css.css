@@ -163,11 +163,12 @@ button {
 #clockdiv div > span{
     padding: 15px;
     border-radius: 3px;
-    background: #00816A;
+    background: #BDBDBD;
     display: inline-block;
 }
 
 .smalltext{
-    padding-top: 5px;
+    /* padding-top: 5px; */
     font-size: 16px;
+    color: #404040;
 }
