@@ -154,9 +154,9 @@ button {
 }
 
 #clockdiv > div{
-    padding: 10px;
+    /* padding: 10px;
     border-radius: 3px;
-    background: #00BF96;
+    background: #00BF96; */
     display: inline-block;
 }
 
