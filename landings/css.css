@@ -180,9 +180,22 @@ button {
     font-weight: bold;
 }
 
+.bluewin {
+    color: #404040;
+    font-size: 32px;
+    font-weight: bold;
+    background-color: #FFD966;
+    width: 720px;
+    padding: 15px 0;
+    margin: 40px 0;
+    position: relative;
+    text-align: center;
+}
+
 .youwin {
     color: #404040;
-    font-size: 100%;
+    font-size: 32px;
+    font-weight: bold;
     background-color: #FFD966;
     width: 720px;
     padding: 15px 0;
