@@ -71,7 +71,7 @@ ul {
     list-style-image: url('images/bullet-check.jpg');
     font-size: 27px;
     line-height: 48px;
-  	margin:0 0 50px 0;
+  	margin-bottom: 50px;
 }
 
 
