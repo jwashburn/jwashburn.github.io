@@ -25,6 +25,15 @@ h1 {
 }
 
 
+h4 {
+    font-size: 125%;
+    line-height: normal;
+    color: #00a4ff;
+    font-weight: bold;
+    margin: 100px 0 40px 0;
+}
+
+
 #blackquote {
     color: white;
     font-size: 100%;
