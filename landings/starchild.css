@@ -1,0 +1,209 @@
+
+body { 
+    width: 100%; 
+    text-align: center; 
+    margin: 0px; 
+    padding: 0px;
+    font-size: 27px;
+    line-height: 45px;
+}
+
+#container { 
+    width: 720px; 
+    text-align: left; 
+    margin: 0px auto; 
+    font-family: 'Roboto', Sans-serif;
+}
+
+
+h1 {
+    font-size: 225%;
+    line-height: normal;
+    color: #00a4ff;
+    font-weight: bold;
+    margin: 100px 0 40px 0;
+}
+
+
+#blackquote {
+    color: white;
+    font-size: 100%;
+    background-color: black;
+    width: 720px;
+    padding: 50px 0;
+    position: relative;
+    bottom: 50px;
+    text-align: center;
+}
+
+
+#blackquote p {
+    font-size: 115%;
+    line-height: 50px;
+}
+
+
+#frame {
+    background-color: #E8E8E8;
+    width: 350px;
+    margin: auto;
+    padding: 50px;
+}
+
+
+#frame p {
+    font-family: 'Georgia', serif;
+    font-size: 60%;
+    font-style: italic;
+    color: #404040;
+    text-align: center;
+    line-height: normal;
+}
+
+
+img {
+    display: block;
+    margin: auto;
+}
+
+
+ul {
+    list-style-image: url('images/bullet-check.jpg');
+    font-size: 27px;
+    line-height: 52px;
+}
+
+
+.bullet-no {
+    list-style-image: url('images/bullet-no.jpg');
+    color: #00a4ff;
+    font-size: 135%;
+    font-weight: bold;
+}
+
+.bullet-yes {
+    list-style-image: url('images/bullet-check.jpg');
+    color: #00a4ff;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.quote {
+    font-family: 'Georgia', serif;
+    font-size: 110%;
+    padding: 0 80px;
+    margin: 0 0 120px 0;
+    border-style: solid;
+    border-left-width: 5px;
+    border-left-color: #00a4ff;
+    border-width: 0 0 0 10px;
+}
+
+.source {
+    padding: 0 80px;
+}
+
+.book {
+    font-family: "georgia", sans-serif;
+    background-color: #E8E8E8;
+    width: 590px;
+    padding: 50px 80px;
+    margin: 50px 0;
+    position: relative;
+    bottom: 50px;
+    font-family: "georgia", sans-serif;
+    font-size: 24px;
+}
+
+.graybigtext {
+    font-family: 'Roboto', Sans-serif;
+    font-size: 125%;
+    font-weight: bold;
+    color: #424242;
+}
+
+button {
+    font-size: 120%;
+    color: white;
+    background-color: #F44336;
+    font-weight: bold;
+    padding: 20px 40px;
+    margin: auto;
+    border: none;
+    cursor: pointer;
+}
+
+.center {
+    text-align: center; 
+}
+
+.italicend {
+    text-align: center; 
+    font-size: 60%;
+    line-height: normal;
+    color: #404040;
+}
+
+#clockdiv{
+    font-family: sans-serif;
+    color: #fff;
+    font-weight: 100;
+    text-align: center;
+    font-size: 30px;
+    margin: auto;
+}
+
+#clockdiv > div{
+    /* padding: 10px;
+    border-radius: 3px;
+    background: #00BF96; */
+    display: inline-block;
+}
+
+#clockdiv div > span{
+    padding: 15px;
+    border-radius: 3px;
+    background: #BDBDBD;
+    display: inline-block;
+}
+
+.smalltext{
+    /* padding-top: 5px; */
+    font-size: 16px;
+    color: #404040;
+}
+
+.steps{
+    text-align: center;
+    color: #00a4ff;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.bluewin {
+    color: #ffffff;
+    font-size: 32px;
+    font-weight: bold;
+    background-color: #00a4ff;
+    width: 720px;
+    padding: 15px 0;
+    margin: 40px 0;
+    position: relative;
+    text-align: center;
+}
+
+.youwin {
+    color: #404040;
+    font-size: 32px;
+    font-weight: bold;
+    background-color: #FFD966;
+    width: 720px;
+    padding: 15px 0;
+    margin: 40px 0;
+    position: relative;
+    text-align: center;
+}
+
+b {
+    font-weight: 900;
+}
