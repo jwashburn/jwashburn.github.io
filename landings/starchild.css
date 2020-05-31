@@ -154,9 +154,12 @@ button {
 
 .whitetext {
     font-family: 'Roboto', Sans-serif;
-    font-size: 125%;
+    font-size: 225%;
     font-weight: bold;
     color: white; 
+    line-height: normal;
+    font-weight: bold;
+    margin: 100px 0 40px 0;
 }
 
 .italicend {
