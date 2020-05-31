@@ -125,13 +125,9 @@ li {
     width: 720px;
     padding: 30px;
     margin: 40px;
+    border-radius: 2px;
     text-decoration: none;
-
-  /*
-    padding: 15px 0;
-    margin: 40px 0;
-*/
-  position: relative;
+    position: relative;
     text-align: center;
 }
 
