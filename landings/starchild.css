@@ -118,14 +118,16 @@ li {
 }
 
 .gumroad-button2 {
-    font-size: 120%;
-    color: black;
-    background-color: #FAC115;
+    color: #404040;
+    font-size: 32px;
     font-weight: bold;
-    padding: 20px 40px;
-    margin: auto;
-    border: none;
-    cursor: pointer;  
+    background-color: #FFD966;
+    width: 720px;
+    padding: 15px 0;
+    margin: 40px 0;
+    position: relative;
+    text-align: center;
+
 }
 
 .book {
