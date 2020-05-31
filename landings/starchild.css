@@ -158,6 +158,17 @@ button {
     color: #404040;
 }
 
+.gumroad-button {
+      font-size: 120%;
+    color: black;
+    background-color: #FAC115;
+    font-weight: bold;
+    padding: 20px 40px;
+    margin: auto;
+    border: none;
+    cursor: pointer;  
+}
+
 #clockdiv{
     font-family: sans-serif;
     color: #fff;
