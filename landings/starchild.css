@@ -152,6 +152,10 @@ button {
     text-align: center; 
 }
 
+.whitetext {
+  	color: white; 
+}
+
 .italicend {
     text-align: center; 
     font-size: 60%;
