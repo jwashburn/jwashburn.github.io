@@ -119,7 +119,8 @@ li {
 
 .book {
     font-family: "georgia", sans-serif;
-    background-color: #E8E8E8;
+    color: #ffffff;
+    background-color: #212121;
     width: 590px;
     padding: 50px 80px;
     margin: 50px 0;
