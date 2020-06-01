@@ -132,10 +132,10 @@ li {
     text-align: center;
 }
 
-.gumroad-button2:hover {background-color: #ffe493}
+.gumroad-button2:hover {background-color: #fcc932}
 
 .gumroad-button2:active {
-  background-color: #fff0c4;
+  background-color: #ffe493;
   box-shadow: 2px 3px black;
   transform: translateY(4px);
 
