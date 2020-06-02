@@ -48,6 +48,7 @@ h4 {
 .moveup {
     position: relative;
     top: 255px;
+    transform: translateY(200px);
 }
 
 
