@@ -77,7 +77,7 @@ img {
 
 
 ul {
-    list-style-image: url('images/bullet-check.jpg');
+    list-style-image: url('images/Starchild-landing-page-bullet-check.png');
     font-size: 27px;
     line-height: 48px;
 }
@@ -96,7 +96,7 @@ li {
 }
 
 .bullet-yes {
-    list-style-image: url('images/bullet-check.jpg');
+    list-style-image: url('images/Starchild-landing-page-bullet-check.png');
     color: #00a4ff;
     font-size: 32px;
     font-weight: bold;
