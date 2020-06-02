@@ -142,7 +142,7 @@ li {
 .gumroad-button2:active {
   background-color: #ffe493;
   box-shadow: 2px 3px black;
-  transform: translateY(4px);
+  transform: translateY(8px);
 }
 
 .book {
