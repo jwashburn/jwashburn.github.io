@@ -261,3 +261,9 @@ button {
 b {
     font-weight: 900;
 }
+
+
+.gumroad-overlay-iframe {
+      position: relative;
+}
+  
