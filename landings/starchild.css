@@ -146,6 +146,39 @@ li {
   transform: translateY(8px);
 }
 
+
+
+
+
+.payhip-buy-button {
+    color: #404040;
+    font-size: 32px;
+    font-weight: bold;
+    background-color: #FFD966;
+    width: 720px;
+    padding: 15px 45px 15px 45px;
+    margin: 40px;
+    border-radius: 3px;
+    box-shadow: 6px 9px black;
+    text-decoration: none;
+    position: relative;
+    text-align: center;
+}
+
+.payhip-buy-button:hover {background-color: #fcc932}
+
+.payhip-buy-button:active {
+  background-color: #ffe493;
+  box-shadow: 2px 3px black;
+  transform: translateY(8px);
+}
+
+
+
+
+
+
+
 .book {
     font-family: "georgia", sans-serif;
     color: #ffffff;
@@ -268,8 +301,3 @@ b {
       position: relative;
 }
 */
-
-
-
-
-  
