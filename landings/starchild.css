@@ -165,12 +165,12 @@ li {
     text-align: center !important;
 }
 
-.payhip-buy-button:hover {background-color: #fcc932}
+#payhipstyle:hover {background-color: #fcc932 !important}
 
-.payhip-buy-button:active {
-  background-color: #ffe493;
-  box-shadow: 2px 3px black;
-  transform: translateY(8px);
+#payhipstyle:active {
+  background-color: #ffe493 !important;
+  box-shadow: 2px 3px black !important;
+  transform: translateY(8px) !important;
 }
 
 
