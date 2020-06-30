@@ -152,6 +152,7 @@ li {
 
 #payhipstyle {
     color: white !important;
+  	border-color: white;
     font-size: 32px !important;
     font-weight: bold !important;
     background-color: #FFD966 !important;
