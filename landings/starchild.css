@@ -153,16 +153,16 @@ li {
 #payhipstyle {
     color: #404040 !important;
     font-size: 32px !important;
-    font-weight: bold;
-    background-color: #FFD966;
-    width: 720px;
-    padding: 15px 45px 15px 45px;
-    margin: 40px;
-    border-radius: 3px;
-    box-shadow: 6px 9px black;
-    text-decoration: none;
-    position: relative;
-    text-align: center;
+    font-weight: bold !important;
+    background-color: #FFD966 !important;
+    width: 720px !important;
+    padding: 15px 45px 15px 45px !important;
+    margin: 40px !important;
+    border-radius: 3px !important;
+    box-shadow: 6px 9px black !important;
+    text-decoration: none !important;
+    position: relative !important;
+    text-align: center !important;
 }
 
 .payhip-buy-button:hover {background-color: #fcc932}
