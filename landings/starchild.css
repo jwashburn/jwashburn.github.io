@@ -153,6 +153,7 @@ li {
 #payhipstyle {
     color: white !important;
   	border-color: white !important;
+  	background-image: linear-gradient(#FFD966,#60B044)!important; 
     font-size: 32px !important;
     font-weight: bold !important;
     background-color: #FFD966 !important;
