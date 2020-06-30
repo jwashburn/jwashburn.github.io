@@ -151,7 +151,7 @@ li {
 
 
 .payhip-buy-button {
-    color: #404040;
+    color: #404040  !important;
     font-size: 32px;
     font-weight: bold;
     background-color: #FFD966;
