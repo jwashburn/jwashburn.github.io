@@ -255,7 +255,7 @@ button {
 
 #clockdiv div > span{
     padding: 25px;
-    border-radius: 3px;
+    border-radius: 8px;
     background: #BDBDBD;
     display: inline-block;
 }
